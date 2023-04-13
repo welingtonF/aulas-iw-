@@ -1,0 +1,21 @@
+p{
+    color: red;
+    border: 2px  solid khaki  ; 
+}
+
+.um{
+    color: blue;
+    border: 2px solid s ;
+}
+.dois{
+    color: green;
+    border: 2px solid fuchsia ;
+}
+#titulo{
+    color: blueviolet;
+    border: 2px solid goldenrod     ; 
+
+}
+body{
+    text-align-last: center;
+}
